@@ -134,9 +134,9 @@ import axios from "axios";
 import { toast } from "react-toastify";
 
 const questions = [
-  "1.2,3.4,5.6",
-  "2.3,4.5,6.7",
-  "3.4,5.6,7.8",
+  "Is it a rainy day?",
+  "Should i go outside?",
+  "Should i carry a umbrella?",
 ];
 
 const Query = () => {
